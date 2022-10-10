@@ -1,11 +1,12 @@
-ipywidgets 
-notebook
-ensure ## check argument pass is correct or not
-py-youtube
+ipywidgets==8.0.2
+notebook==6.4.12
+ensure==1.0.2 ## check argument pass is correct or not
+py-youtube==1.1.7
 
 # dev requirements
-pytest
-tox
-black ## formatting
-flakeB ## error check
-mypy ## type error
+pytest==7.1.3
+tox==3.26.0
+black==22.10.0 ## formatting
+flake8==5.0.4 ## error check
+mypy==0.982 ## type error
+-e .

@@ -1,4 +1,4 @@
-ipywidgets 
-notebook
-ensure ## check argument pass is correct or not
-py-youtube
+ipywidgets==8.0.2
+notebook==6.4.12
+ensure==1.0.2 ## check argument pass is correct or not
+py-youtube==1.1.7
