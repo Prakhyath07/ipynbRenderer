@@ -1,0 +1,11 @@
+ipywidgets 
+notebook
+ensure ## check argument pass is correct or not
+py-youtube
+
+# dev requirements
+pytest
+tox
+black ## formatting
+flakeB ## error check
+mypy ## type error
